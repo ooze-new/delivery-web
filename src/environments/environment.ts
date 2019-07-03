@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  vkTokenKeyInStore: 'vK-token-info1',
+  appID: 	7042453,
+  serviceToken: '9ca091d89ca091d89ca091d82d9ccbe44d99ca09ca091d8c1bcf66aac5a450bad627a87',
+  display: 'page',
+  // redirect_uri: 'http://localhost:4200/test',
+  scope: ['friends', 'secure'],
+  response_type: 'token',
+  apiVersion: '5.95',
+  state: '123456'
 };
 
 /*

@@ -1,0 +1,12 @@
+<mat-toolbar>
+  <ng-container *ngIf="user">
+    {{ user.firstName }} {{ user.lastName }}
+  </ng-container>
+  <span class="spacer"></span>
+  <button mat-raised-button (click)="login()" *ngIf="!isAuth">
+    Вход
+  </button>
+  <button mat-raised-button (click)="logout()" *ngIf="isAuth">
+    Выход
+  </button>
+</mat-toolbar>

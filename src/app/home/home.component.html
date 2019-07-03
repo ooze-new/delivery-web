@@ -1,0 +1,7 @@
+<mat-list>
+  <mat-list-item *ngFor="let friend of friends | async">
+    <img matListAvatar src="{{ friend.photo }}">
+    <h3 matLine> {{ friend.firstName }} {{ friend.lastName }} </h3>
+  </mat-list-item>
+</mat-list>
+

@@ -1,0 +1,12 @@
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-06-29T20:30:51.372Z
+Hash: f263ea7a6ef802086b4c
+Time: 11587ms
+chunk {main} main.js, main.js.map (main) 24.3 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 236 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.7 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.63 MB [initial] [rendered]
+[34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+Завершить выполнение пакетного файла [Y(да)/N(нет)]? 
